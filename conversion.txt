@@ -1,0 +1,60 @@
+IP Address: 123.98.66.1
+Decimal format: 123.98.66.1
+Binary format: 1111011.1100010.1000010.1
+Octal format: 173.142.102.1
+Hexadecimal format: 7b.62.42.1
+
+IP Address: 24.57.1.0
+Decimal format: 24.57.1.0
+Binary format: 11000.111001.1.0
+Octal format: 30.71.1.0
+Hexadecimal format: 18.39.1.0
+
+IP Address: 1.0.0.1
+Decimal format: 1.0.0.1
+Binary format: 1.0.0.1
+Octal format: 1.0.0.1
+Hexadecimal format: 1.0.0.1
+
+IP Address: 90.80.56.78
+Decimal format: 90.80.56.78
+Binary format: 1011010.1010000.111000.1001110
+Octal format: 132.120.70.116
+Hexadecimal format: 5a.50.38.4e
+
+IP Address: 255.255.0.0
+Decimal format: 255.255.0.0
+Binary format: 11111111.11111111.0.0
+Octal format: 377.377.0.0
+Hexadecimal format: ff.ff.0.0
+
+IP Address: 1.235.56.56
+Decimal format: 1.235.56.56
+Binary format: 1.11101011.111000.111000
+Octal format: 1.353.70.70
+Hexadecimal format: 1.eb.38.38
+
+IP Address: 7.7.255.255
+Decimal format: 7.7.255.255
+Binary format: 111.111.11111111.11111111
+Octal format: 7.7.377.377
+Hexadecimal format: 7.7.ff.ff
+
+IP Address: 244.244.244.244
+Decimal format: 244.244.244.244
+Binary format: 11110100.11110100.11110100.11110100
+Octal format: 364.364.364.364
+Hexadecimal format: f4.f4.f4.f4
+
+IP Address: 1.0.56.35
+Decimal format: 1.0.56.35
+Binary format: 1.0.111000.100011
+Octal format: 1.0.70.43
+Hexadecimal format: 1.0.38.23
+
+IP Address: 255.34.12.0
+Decimal format: 255.34.12.0
+Binary format: 11111111.100010.1100.0
+Octal format: 377.42.14.0
+Hexadecimal format: ff.22.c.0
+
